@@ -32,3 +32,4 @@
 - [Exemple d’analyse de données avec les retranscriptions des travaux à l’Assemblée nationale](https://github.com/jhroy/np14-assnat)
 
 Regroupement [**Humania**](https://humania.uqam.ca)
+Le [pdf de la présentation faite le 8 février 2019](20190208-labcmo.pdf).
