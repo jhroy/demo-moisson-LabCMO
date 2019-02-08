@@ -7,10 +7,10 @@
 - [Feuille Google montrée à l’écran](bit.ly/scraping2018-1)
 
 #### 2. API : définition
-- [L’explorateur du Graph API de Facebook](https://developers.facebook.com/tools/explorer/) (Il faut être connecté à votre compte FB)
+- [L’explorateur du Graph API de Facebook](https://developers.facebook.com/tools/explorer/) (il faut être connecté à votre compte FB)
 
 #### 3. Démonstration de l'utilisation de l’API de Twitter
-- [Se créer une app dans Twitter](https://developer.twitter.com/en/apps) (Il faut être connecté à votre compte Twitter)
+- [Se créer une app dans Twitter](https://developer.twitter.com/en/apps) (il faut être connecté à votre compte Twitter)
 - Pour télécharger [Anaconda, suite d’analyse de données complète](https://www.anaconda.com/distribution/)
 
 #### 4. Moissonnage de données sur le web
@@ -28,7 +28,7 @@
 - [Tutoriel pandas](https://github.com/jhroy/tuto-pandas/blob/master/tutoriel.ipynb)
 
 #### 7. Analyse de texte automatisée
-[Documentation pour le *Natural Language ToolKit*](http://www.nltk.org/)
-[Exemple d’analyse de données avec les retranscriptions des travaux à l’Assemblée nationale](https://github.com/jhroy/np14-assnat)
+- [Documentation pour le *Natural Language ToolKit*](http://www.nltk.org/)
+- [Exemple d’analyse de données avec les retranscriptions des travaux à l’Assemblée nationale](https://github.com/jhroy/np14-assnat)
 
 Regroupement [**Humania**](https://humania.uqam.ca)
