@@ -11,7 +11,7 @@
 
 #### 3. Démonstration de l'utilisation de l’API de Twitter
 - [Se créer une app dans Twitter](https://developer.twitter.com/en/apps) (il faut être connecté à votre compte Twitter)
-- Pour télécharger [Anaconda, suite d’analyse de données complète](https://www.anaconda.com/distribution/)
+- Pour télécharger [Anaconda, suite d’analyse de données complète](https://www.anaconda.com/distribution/) (prenez la version pour python 3.x)
 
 #### 4. Moissonnage de données sur le web
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
