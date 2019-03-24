@@ -29,6 +29,7 @@
 
 #### 7. Analyse de texte automatisée
 - [Documentation pour le *Natural Language ToolKit*](http://www.nltk.org/)
+- [Olivier Lapointe](https://github.com/Lapoinol) me signale une nouvelle bibliothèque qui fait mieux que NLTK, [SpaCy](https://spacy.io/)
 - [Exemple d’analyse de données avec les retranscriptions des travaux à l’Assemblée nationale](https://github.com/jhroy/np14-assnat)
 
 Regroupement [**Humania**](https://humania.uqam.ca)
